@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,6 +13,16 @@ namespace classes_1
         internal int energy;
         internal string name;
 
+        public ConsoleMon()
+        {
+            
+        }
+        internal ConsoleMon(int health, int energy, string name)
+        {
+            this.health = health;
+            this.energy = energy;
+            this.name = name;
+        }
         internal void TakeDamage(int damage)
         {
             this.health -= damage;

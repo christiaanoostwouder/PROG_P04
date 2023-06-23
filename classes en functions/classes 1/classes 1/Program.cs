@@ -13,6 +13,7 @@ namespace classes_1
             Console.WriteLine();
             Program program = new Program();
             program.TestConsoleMonFunctions();
+            program.TestSkillFunctions();
         }
 
         void TestConsoleMonFunctions()
@@ -25,6 +26,23 @@ namespace classes_1
             Console.WriteLine(mon.health == -100);
 
             Console.WriteLine(mon.energy == -20);
+        }
+
+        void TestSkillFunctions()
+        {
+            Console.WriteLine("TestSkillFunctions");
+            ConsoleMon casterMon = new ConsoleMon();
+            ConsoleMon targetMon = new ConsoleMon();
+            Skill skill = new Skill()
+            {
+                damage = 100,
+                energyCost = 20,
+            };
+            skill.UseOn(targetMon, casterMon);
+
+            Console.WriteLine(targetMon.health == -100);
+
+            Console.WriteLine(casterMon.energy == -20);
         }
     }
 
