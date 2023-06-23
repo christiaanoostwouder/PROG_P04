@@ -11,5 +11,18 @@ namespace classes_1
         internal int health;
         internal int energy;
         internal string name;
+
+        internal void TakeDamage(int damage)
+        {
+            this.health -= damage;
+        }
+
+        internal void DepleteEnergy(int energy)
+        {
+            this.energy -= energy;
+        }
+
+        
+
     }
 }
