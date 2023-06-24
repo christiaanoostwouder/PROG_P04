@@ -12,6 +12,7 @@ namespace classes_1
         internal int health;
         internal int energy;
         internal string name;
+        
 
         public ConsoleMon()
         {
@@ -31,6 +32,11 @@ namespace classes_1
         internal void DepleteEnergy(int energy)
         {
             this.energy -= energy;
+        }
+
+        private void skills() 
+        { 
+            List<Skill> skills= new List<Skill>();
         }
 
         
