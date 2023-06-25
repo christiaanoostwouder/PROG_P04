@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -12,6 +13,7 @@ namespace classes_1
         internal int health;
         internal int energy;
         internal string name;
+        internal Element weaknes;
         
 
         public ConsoleMon()

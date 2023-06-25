@@ -11,6 +11,7 @@ namespace classes_1
         internal int damage;
         internal int energyCost;
         internal string name;
+        internal Element element;
 
         public Skill() 
         {
@@ -26,7 +27,13 @@ namespace classes_1
         internal void UseOn(ConsoleMon target, ConsoleMon caster)
         {
             caster.DepleteEnergy(energyCost);
+            if(target.weaknes == element)
+            {
+                target.TakeDamage(damage / 2);
+            }
             target.TakeDamage(damage);
         }
+
+        
     }
 }
