@@ -1,0 +1,15 @@
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileDirOpdracht\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.exe
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileDirOpdracht\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.deps.json
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileDirOpdracht\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.runtimeconfig.json
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileDirOpdracht\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.dll
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileDirOpdracht\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.pdb
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.csproj.AssemblyReference.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.AssemblyInfoInputs.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.AssemblyInfo.cs
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.dll
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\refint\FileDirOpdracht.dll
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.pdb
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.genruntimeconfig.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\ref\FileDirOpdracht.dll
