@@ -1,0 +1,15 @@
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Enum\EnumOpdracht\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.csproj.AssemblyReference.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Enum\EnumOpdracht\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Enum\EnumOpdracht\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.AssemblyInfoInputs.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Enum\EnumOpdracht\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.AssemblyInfo.cs
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Enum\EnumOpdracht\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Enum\EnumOpdracht\EnumOpdracht\bin\Debug\net7.0\EnumOpdracht.exe
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Enum\EnumOpdracht\EnumOpdracht\bin\Debug\net7.0\EnumOpdracht.deps.json
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Enum\EnumOpdracht\EnumOpdracht\bin\Debug\net7.0\EnumOpdracht.runtimeconfig.json
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Enum\EnumOpdracht\EnumOpdracht\bin\Debug\net7.0\EnumOpdracht.dll
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Enum\EnumOpdracht\EnumOpdracht\bin\Debug\net7.0\EnumOpdracht.pdb
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Enum\EnumOpdracht\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.dll
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Enum\EnumOpdracht\EnumOpdracht\obj\Debug\net7.0\refint\EnumOpdracht.dll
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Enum\EnumOpdracht\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.pdb
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Enum\EnumOpdracht\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.genruntimeconfig.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Enum\EnumOpdracht\EnumOpdracht\obj\Debug\net7.0\ref\EnumOpdracht.dll
