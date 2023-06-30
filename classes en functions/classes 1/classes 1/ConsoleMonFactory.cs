@@ -29,6 +29,8 @@ namespace classes_1
                 Console.WriteLine(dataMon.name);
                 Console.WriteLine(dataMon.health);
                 Console.WriteLine(dataMon.energy);
+
+
             }
         }
 
@@ -37,6 +39,16 @@ namespace classes_1
             string json = File.ReadAllText(datafile);
             List<ConsoleMon> templates = JsonSerializer.Deserialize<List<ConsoleMon>>(json);
             Console.WriteLine(templates[0].name);
+        }
+        internal ConsoleMon CopyConsoleMon(ConsoleMon copyFrom)
+        {
+            ConsoleMon copyResult = new ConsoleMon(copyFrom.health, copyFrom.energy, copyFrom.name, copyFrom.weakness);
+            copyResult.skills = new List<Skill>();
+            for (int i = 0; i < copyFrom.skills.Count; i++)
+            {
+                copyResult.skills.Add(CopySkill(copyFrom.skills[i]));
+            }
+            return copyResult;
         }
     }
 }
