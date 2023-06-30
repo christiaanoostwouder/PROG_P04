@@ -13,15 +13,16 @@ namespace classes_1
         public string name;
         public Element element;
 
-        internal Skill() 
+        public Skill() 
         {
 
         }
-        internal Skill(int damage, int energyCost, string name)
+        internal Skill(int damage, int energyCost, string name, Element element)
         {
             this.damage = damage;
             this.energyCost = energyCost;
             this.name = name;
+            this.element = new Element();
         }
 
         internal void UseOn(ConsoleMon target, ConsoleMon caster)

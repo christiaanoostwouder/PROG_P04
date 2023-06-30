@@ -38,9 +38,9 @@ namespace classes_1
 
         internal ConsoleMon(int energy, int health, string name, Element weakness)
         {
-        this.health = health;
-        this.energy = energy;
-        this.name = name;
+            this.health = health;
+            this.energy = energy;
+            this.name = name;
             this.weakness = weakness;
          }
         
