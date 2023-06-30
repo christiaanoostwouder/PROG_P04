@@ -14,6 +14,7 @@ namespace classes_1
             Program program = new Program();
             program.TestConsoleMonFunctions();
             program.TestSkillFunctions();
+            program.TestFactoryFunctions();
         }
 
         void TestConsoleMonFunctions()
@@ -43,6 +44,13 @@ namespace classes_1
             Console.WriteLine(targetMon.health == -150);
 
             Console.WriteLine(casterMon.energy == -20);
+        }
+
+        void TestFactoryFunctions()
+        {
+            Console.WriteLine("TestFactoryFunctions");
+            ConsoleMonFactory factory = new ConsoleMonFactory();
+            factory.Load("monsterdata.txt");
         }
     }
 

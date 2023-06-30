@@ -1,0 +1,16 @@
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileIOOpdracht\FileIOOpdracht\bin\Debug\net7.0\leesdezefile.txt
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileIOOpdracht\FileIOOpdracht\bin\Debug\net7.0\FileIOOpdracht.exe
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileIOOpdracht\FileIOOpdracht\bin\Debug\net7.0\FileIOOpdracht.deps.json
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileIOOpdracht\FileIOOpdracht\bin\Debug\net7.0\FileIOOpdracht.runtimeconfig.json
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileIOOpdracht\FileIOOpdracht\bin\Debug\net7.0\FileIOOpdracht.dll
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileIOOpdracht\FileIOOpdracht\bin\Debug\net7.0\FileIOOpdracht.pdb
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileIOOpdracht\FileIOOpdracht\obj\Debug\net7.0\FileIOOpdracht.csproj.AssemblyReference.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileIOOpdracht\FileIOOpdracht\obj\Debug\net7.0\FileIOOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileIOOpdracht\FileIOOpdracht\obj\Debug\net7.0\FileIOOpdracht.AssemblyInfoInputs.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileIOOpdracht\FileIOOpdracht\obj\Debug\net7.0\FileIOOpdracht.AssemblyInfo.cs
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileIOOpdracht\FileIOOpdracht\obj\Debug\net7.0\FileIOOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileIOOpdracht\FileIOOpdracht\obj\Debug\net7.0\FileIOOpdracht.dll
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileIOOpdracht\FileIOOpdracht\obj\Debug\net7.0\refint\FileIOOpdracht.dll
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileIOOpdracht\FileIOOpdracht\obj\Debug\net7.0\FileIOOpdracht.pdb
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileIOOpdracht\FileIOOpdracht\obj\Debug\net7.0\FileIOOpdracht.genruntimeconfig.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\FileIOOpdracht\FileIOOpdracht\obj\Debug\net7.0\ref\FileIOOpdracht.dll

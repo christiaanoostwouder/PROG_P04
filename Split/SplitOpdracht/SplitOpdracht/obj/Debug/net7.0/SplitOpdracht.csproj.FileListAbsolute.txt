@@ -1,0 +1,32 @@
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\StringSplit.txt
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.exe
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.deps.json
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.runtimeconfig.json
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.dll
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.pdb
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.csproj.AssemblyReference.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.AssemblyInfoInputs.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.AssemblyInfo.cs
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.dll
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\refint\SplitOpdracht.dll
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.pdb
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.genruntimeconfig.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Files en Directories\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\ref\SplitOpdracht.dll
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Split\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\StringSplit.txt
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Split\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.exe
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Split\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.deps.json
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Split\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.runtimeconfig.json
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Split\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.dll
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Split\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.pdb
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Split\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.csproj.AssemblyReference.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Split\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Split\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.AssemblyInfoInputs.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Split\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.AssemblyInfo.cs
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Split\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Split\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.dll
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Split\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\refint\SplitOpdracht.dll
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Split\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.pdb
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Split\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.genruntimeconfig.cache
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\Split\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\ref\SplitOpdracht.dll
