@@ -15,6 +15,7 @@ namespace classes_1
             program.TestConsoleMonFunctions();
             program.TestSkillFunctions();
             program.TestFactoryFunctions();
+            program.TestConstructors();
         }
 
         void TestConsoleMonFunctions()
@@ -51,6 +52,19 @@ namespace classes_1
             Console.WriteLine("TestFactoryFunctions");
             ConsoleMonFactory factory = new ConsoleMonFactory();
             factory.Load("monsterdata.txt");
+            factory.LoadJson("monsterdata.json");
+        }
+
+        void TestConstructors()
+        {
+            Console.WriteLine("TestConstructors");
+            ConsoleMon mon = new ConsoleMon(200, 200, "ConsoleColorMon", Element.Earth);
+
+            Console.WriteLine(mon.energy == 200);
+            Console.WriteLine(mon.name == "ConsoleColorMon");
+            Console.WriteLine(mon.health == 200);
+            Console.WriteLine(mon.weakness == Element.Earth);
+
         }
     }
 

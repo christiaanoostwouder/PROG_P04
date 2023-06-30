@@ -10,22 +10,12 @@ namespace classes_1
 {
     internal class ConsoleMon
     {
-        internal int health;
-        internal int energy;
-        internal string name;
-        internal Element weaknes;
+        public int health;
+        public int energy;
+        public string name;
+        public Element weakness;      
+       
         
-
-        public ConsoleMon()
-        {
-            
-        }
-        internal ConsoleMon(int health, int energy, string name)
-        {
-            this.health = health;
-            this.energy = energy;
-            this.name = name;
-        }
         internal void TakeDamage(int damage)
         {
             this.health -= damage;
@@ -36,11 +26,23 @@ namespace classes_1
             this.energy -= energy;
         }
 
-        private void skills() 
+        internal void skills() 
         { 
             List<Skill> skills= new List<Skill>();
         }
 
+        public ConsoleMon()
+        {
+
+        }
+
+        internal ConsoleMon(int energy, int health, string name, Element weakness)
+        {
+        this.health = health;
+        this.energy = energy;
+        this.name = name;
+            this.weakness = weakness;
+         }
         
 
     }

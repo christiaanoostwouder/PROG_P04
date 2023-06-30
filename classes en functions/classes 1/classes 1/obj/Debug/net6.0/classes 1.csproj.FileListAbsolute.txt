@@ -15,3 +15,4 @@ C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\classes en
 C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\classes en functions\classes 1\classes 1\obj\Debug\net6.0\ref\classes 1.dll
 C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\classes en functions\classes 1\classes 1\bin\Debug\net6.0\ConsoleMon.cs
 C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\classes en functions\classes 1\classes 1\bin\Debug\net6.0\monsterdata.txt
+C:\Users\oostw\OneDrive\Bureaublad\MA college\periode 4\PROG\PROG_P04\classes en functions\classes 1\classes 1\bin\Debug\net6.0\monsterdata.json
